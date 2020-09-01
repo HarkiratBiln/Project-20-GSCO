@@ -1,2 +1,2 @@
-# Project-20-GSCO
-This is my WhiteHat Jr. Project.
+# p5.play-boilerplate
+Boiler plate for p5.play
